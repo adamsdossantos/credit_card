@@ -1,4 +1,4 @@
-# Credit Card Fraud Prediction with Logistic Regression
+# Credit Card Fraud Detection with Logistic Regression
 
 
 ## 1. Project Overview
