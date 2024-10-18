@@ -1,4 +1,4 @@
-# Heart Desease Prediction with Logistic Regression
+# Credit Card Fraud Prediction with Logistic Regression
 
 
 ## 1. Project Overview
